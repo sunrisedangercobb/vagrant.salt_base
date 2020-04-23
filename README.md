@@ -1,0 +1,1 @@
+# vagrant.salt_base
